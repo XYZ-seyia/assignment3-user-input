@@ -11,7 +11,7 @@ Before running the code
 pip install -r requirements.txt
 
 ## images
-3 pictures in the images foldes are required
+3 pictures in the images folder are required
 
 ## run
 Please run the main.py to check the little game
